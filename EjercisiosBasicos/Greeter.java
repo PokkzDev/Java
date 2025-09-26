@@ -1,3 +1,4 @@
+package EjercisiosBasicos;
 import java.util.Scanner;
 
 public class Greeter {
