@@ -1,4 +1,3 @@
-package EjercisiosBasicos;
 public class EvenOrOdd {
     int number = 10;
 

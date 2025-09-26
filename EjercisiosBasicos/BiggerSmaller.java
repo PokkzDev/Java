@@ -1,4 +1,3 @@
-package EjercisiosBasicos;
 public class BiggerSmaller{
     // Numeros a Evaluar
     int numero_1 = 20;
